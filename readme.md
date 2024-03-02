@@ -1,0 +1,1 @@
+PasswordVault is a secure digital vault that stores and manages passwords, credit card information, and other sensitive data, offering encryption and multi-factor authentication for enhanced security.
